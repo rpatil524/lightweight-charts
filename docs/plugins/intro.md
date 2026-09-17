@@ -5,6 +5,13 @@ series types, drawing tools, indicators, watermarks, and other custom elements
 rendered as part of the chart. This section explains how plugins work and how
 to build your own.
 
+:::tip
+
+Looking for a ready-made plugin instead of building one? Browse the
+[plugin catalog](https://tradingview.github.io/lightweight-charts/plugins).
+
+:::
+
 ## Choosing a plugin type
 
 | You want to build | Plugin type | Attach with |
@@ -27,6 +34,9 @@ Series primitives can also render on the price and time scales; pane primitives 
 1. **Scaffold a project.** Run `npm create lwc-plugin@latest` — the
    [create-lwc-plugin](https://www.npmjs.com/package/create-lwc-plugin)
    package generates a ready-to-run project for the plugin type you choose.
+   The wizard also offers to install the plugin-authoring
+   [Agent Skill](https://tradingview.github.io/lightweight-charts/docs/ai.md#ai-coding-assistants), which teaches AI coding
+   assistants how to write Lightweight Charts™ plugins.
 2. **Implement the plugin interface.** Follow the article for your plugin type
    from the table above.
 3. **Render on the canvas.** Draw in the right coordinate space with
