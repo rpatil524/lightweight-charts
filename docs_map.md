@@ -3,7 +3,7 @@
 A map of all documentation pages with their headings, for navigation by LLMs and tools. Every page is available as Markdown at the linked URL.
 
 > Version: 5.2 (latest released)
-> Last updated: 2026-09-19 11:42:49 UTC
+> Last updated: 2026-09-26 14:52:02 UTC
 
 This map uses a hierarchical structure:
 
@@ -139,6 +139,8 @@ This map uses a hierarchical structure:
   - 1.0.2
   - 1.0.1
   - 1.0.0
+- [Product comparison](https://tradingview.github.io/lightweight-charts/docs/product-comparison.md)
+  - Moving to Advanced Charts
 
 ### Plugin development
 
