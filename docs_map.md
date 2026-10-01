@@ -3,7 +3,7 @@
 A map of all documentation pages with their headings, for navigation by LLMs and tools. Every page is available as Markdown at the linked URL.
 
 > Version: 5.2 (latest released)
-> Last updated: 2026-09-26 14:52:02 UTC
+> Last updated: 2026-10-01 01:52:31 UTC
 
 This map uses a hierarchical structure:
 
